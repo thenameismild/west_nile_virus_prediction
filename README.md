@@ -19,7 +19,7 @@ Thus, allowing them to effectively allocate resources towards preventing transmi
 - Test Data Set
   - Contains 11 columns with information like the train data set without the virus present data
 - The Weather Data
- - Contains 22 columns of weather data from different years, with information on temperature, humidity and spray station location
+  - Contains 22 columns of weather data from different years, with information on temperature, humidity and spray station location
 - The Spray Data
   - Contains 4 columns of spraier location, date and time 
 
