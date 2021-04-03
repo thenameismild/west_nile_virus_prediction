@@ -56,7 +56,7 @@ From the model we were able to gain probability of where in Chicago we may find 
 
 From the prediction we were able to see that the highest probability that the virus will be positive is in the Near West Side District follow by the East Garfield Park District.
 
-However, looking more closely we can see that the virus spread is different depending on the month but we can see a high probability of the virus being positive from August to October where New City, SOuth Side and Near West Side district will be effected by the virus the most.
+However, looking more closely we can see that the virus spread is different depending on the month but we can see a high probability of the virus being positive from August to October where New City, South Side and Near West Side district will be effected by the virus the most.
 
 ### Recommendations
 From the results there have be some allocation of resources when dealing with the killing of the West Nile Virus, since there are different area effected in each month and different positive probability rate as well.
